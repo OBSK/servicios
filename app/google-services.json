@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623306744977",
+    "firebase_url": "https://miloficiosdb.firebaseio.com",
+    "project_id": "miloficiosdb",
+    "storage_bucket": "miloficiosdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623306744977:android:1e69832a76192d2a",
+        "android_client_info": {
+          "package_name": "com.appservicios.arturo.appservicios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623306744977-pskpcvavajqjsbkdcqbtmkqnm172d9t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appservicios.arturo.appservicios",
+            "certificate_hash": "AF08119C50F4A38EFB5FC6EECB2387A59C357523"
+          }
+        },
+        {
+          "client_id": "623306744977-rvhv11bf4e2ng0vphg5c88uroiu7440f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVHDSGBVkk9ywUUsmaTXj0NapO2c2fo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623306744977-rvhv11bf4e2ng0vphg5c88uroiu7440f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

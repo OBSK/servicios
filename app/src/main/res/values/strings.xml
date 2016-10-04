@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mil Oficios app</string>
+    <string name="lbl_correo">Ingrese correo</string>
+    <string name="lbl_contraseña">Ingrese contraseña</string>
+    <string name="lbl_ingresar">Ingresar</string>
+    <string name="lbl_registrarse">Registrarse</string>
+    <string name="lbl_nombre">Ingrese nombre</string>
+    <string name="lbl_apellido">Apellido</string>
+    <string name="lbl_telefono">Celular</string>
+    <string name="txt_errornombre">Nombre inválido</string>
+    <string name="txt_errorcelular1">Te faltan</string>
+    <string name="txt_errorcelular2">dígitos</string>
+    <string name="txt_errorcorreo">Correo inválido</string>
+    <string name="txt_errorpassword">Contraseña inválida</string>
+    <string name="txt_sesion">Sesión iniciada con exito</string>
+    <string name="txt_recordarme">Recordarme la proxima vez</string>
+    <string name="txt_registro">Registrado con éxito</string>
+    <string name="login_error">A ocurrido un error</string>
+    <string name="validacion">Por favor rellene los campos</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_login">Usuario o contraseña incorrectos</string>
+    <string name="error_message">Parece que no tienes conexion a internet</string>
+    <string name="error_wifi">No tienes una conexion activa</string>
+    <string name="verificar">Verificar</string>
+    <string name="Ahora_no">Ahora no</string>
+
+
+
+
+</resources>
